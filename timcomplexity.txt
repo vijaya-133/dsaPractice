@@ -1,0 +1,16 @@
+1   2   3   4   5   6   7   8
+
+omega notation: lower bound
+Big-O notiation: Upper bound
+Theta notation: avegare bound
+
+O(1) --> Constant
+O(log n) --> logerithemic
+O(n)  --> linear
+O(n log n) --> linear logerithemic
+O(n^2) -->quadratic
+O(n^3)-->cubic
+O(2^n)-->exponential
+O(n!)-->factorial
+
+O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n) <O(n!);
